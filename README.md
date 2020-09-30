@@ -1,2 +1,3 @@
 # PoemWebsite
-This poem is on the world wide web!
+This poem is also available on the Google sources.
+Thanks for reading this.
